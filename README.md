@@ -1,5 +1,8 @@
 # HashMap LinkedHashMap and TreeMap in Java
 
+- All of these cannot be used to store duplicates. We cannot have multiples values for a single key, and just in case we have 2 values then the hashtable will store the latest value for that particular key. 
+
+
 ## HashMap
 
 - HashMap is implemented as a hash table, and there is no ordering on keys or values. 
