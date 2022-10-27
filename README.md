@@ -20,6 +20,11 @@ public static void main(String []args)
 
 ```
 
+### Output :
+USA 2
+Asia 4
+China 3
+India 1
 
 
 
@@ -41,6 +46,14 @@ public static void main(String []args)
 }
 
 ```
+
+### Output :
+
+India 1
+USA 2
+China 3
+Asia 4
+
 
 
 ## TreeMap
