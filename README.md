@@ -2,6 +2,8 @@
 
 ## HashMap
 
+- HashMap is implemented as a hash table, and there is no ordering on keys or values. 
+
 
 ```java
 public static void main(String []args)
@@ -32,6 +34,9 @@ India 1
 
 ## LinkedHashMap
 
+- LinkedHashMap preserves the insertion order.
+
+
 ```java
 public static void main(String []args)
 {
@@ -61,6 +66,7 @@ Asia 4
 
 ## TreeMap
 
+- TreeMap is implemented based on a red-black tree structure, and it is ordered by the key.
 
 ```java
 public static void main(String []args)
