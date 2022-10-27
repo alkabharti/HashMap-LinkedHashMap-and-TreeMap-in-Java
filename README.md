@@ -21,6 +21,7 @@ public static void main(String []args)
 ```
 
 ### Output :
+
 ```java
 USA 2
 Asia 4
@@ -49,6 +50,7 @@ public static void main(String []args)
 ```
 
 ### Output :
+
 ```java
 India 1
 USA 2
@@ -76,6 +78,16 @@ public static void main(String []args)
 }
 
 ```
+
+### Output :
+
+```java
+Asia 4
+China 3
+India 1
+USA 2
+```
+
 
 
 
