@@ -22,7 +22,7 @@ public static void main(String []args)
 
 ```
 
-### Output :
+#### Output :
 
 ```java
 USA 2
@@ -54,7 +54,7 @@ public static void main(String []args)
 
 ```
 
-### Output :
+#### Output :
 
 ```java
 India 1
@@ -85,7 +85,7 @@ public static void main(String []args)
 
 ```
 
-### Output :
+#### Output :
 
 ```java
 Asia 4
