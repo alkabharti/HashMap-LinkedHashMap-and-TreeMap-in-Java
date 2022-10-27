@@ -21,11 +21,12 @@ public static void main(String []args)
 ```
 
 ### Output :
+```java
 USA 2
 Asia 4
 China 3
 India 1
-
+```
 
 
 ## LinkedHashMap
@@ -48,12 +49,12 @@ public static void main(String []args)
 ```
 
 ### Output :
-
+```java
 India 1
 USA 2
 China 3
 Asia 4
-
+```
 
 
 ## TreeMap
